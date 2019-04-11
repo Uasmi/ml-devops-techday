@@ -1,0 +1,6 @@
+jupyter
+azureml-sdk
+numpy
+matplotlib
+onnx
+tensorflow
